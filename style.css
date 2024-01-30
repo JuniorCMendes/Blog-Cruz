@@ -1,0 +1,133 @@
+@charset "utf-8";
+
+* {
+    font-family: 'Gill Sans MT';
+    text-align: left;
+    margin: auto;
+    padding: 1%;
+}
+
+body {
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+
+div.video {
+    margin: auto;
+    padding: 10px;
+    padding-bottom: 56%;
+    position: relative;
+}
+    
+div.video > iframe {
+    position:absolute;
+    padding-left: 1%;
+    padding-right: 0%;
+    width: 95%;
+    height: 95%;
+}
+
+h1 {
+    font-size: 22px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    color: steelblue;
+    border: 1px solid;
+    border-radius: 15px;
+    font-weight: bolder;
+}
+
+h2 {
+    font-size: 21px;
+    color: steelblue;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-weight: bolder;
+    border: 1px solid;
+    border-radius: 15px;
+}
+
+.alegria {
+    width: 100px;
+    height: 100px;
+    padding-left: 25px;
+}
+
+.transformacao {
+    width: 100px;
+    height: 100px;
+    padding-left: 25px;
+}
+
+.arrependimento {
+    width: 100px;
+    height: 100px;
+    padding-left: 25px;
+}
+
+.cura {
+    width: 100px;
+    height: 100px;
+    padding-left: 25px;
+}
+
+.libertacao {
+    width: 100px;
+    height: 100px;
+    padding-left: 25px;
+}
+
+.confianca {
+    width: 100px;
+    height: 100px;
+    padding-left: 25px;
+}
+
+.salvacao {
+    width: 100px;
+    height: 100px;
+    padding-left: 25px;
+}
+
+p {
+    text-indent: 20px;
+    font-size: 20px;
+}
+
+footer {
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.insta > a > img {
+    margin-bottom: -6px;
+    margin-left: -5px;
+    width: 25px;
+    height: 20px;
+}
+
+.comp > a > img {
+    margin-bottom: -5px;
+    margin-left: -20px;
+    width: 20px;
+    height: 20px;
+    
+}
+
+.iatb > a > img {
+    margin-bottom: -6px;
+    margin-left: -25px;
+    width: 25px;
+    height: 25px;
+}
+
+.fone > a > img {
+    margin-bottom: -5px;
+    margin-left: -25px;
+    width: 20px;
+    height: 20px;
+}
